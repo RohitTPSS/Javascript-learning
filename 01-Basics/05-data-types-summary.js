@@ -10,6 +10,7 @@ const anotherId = Symbol("123")
 console.log(id === anotherId) // False 
 
 const bigNumber = 123456789101112n // Bigint
+// test
 
 // Non-premitive datatypes ( Reference type )
 // types === array, Objects, functions  
