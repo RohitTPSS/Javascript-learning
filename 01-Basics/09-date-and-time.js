@@ -16,3 +16,4 @@ console.log(myCreatedDate.toDateString)
 document.getElementById('addClassButton').addEventListener('click', function () {
     document.body.classList.toggle('addClass');
 });
+
